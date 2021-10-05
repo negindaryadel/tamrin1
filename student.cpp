@@ -5,11 +5,11 @@ using namespace std;
 int main()
 {
    string name,family;
-   float nomre,a,b,c,average=0;
+   float grade,a,b,c,average=0;
    cout<<"enter name and family"<<endl;
    cin>>name;
    cin>>family;
-   cout<<"enter 3nomre"<<endl;
+   cout<<"enter 3 grade"<<endl;
    cin>>a;
    cin>>b;
    cin>>c;
