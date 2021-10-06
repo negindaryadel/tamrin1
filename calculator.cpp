@@ -1,8 +1,6 @@
 #include <iostream>
-#define _USE_MATH_DEFINES
 #include <math.h>
 using namespace std;
-#include <cmath>
 int main()
 {
 float a,b,result=0;
